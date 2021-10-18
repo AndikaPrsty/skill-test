@@ -15,6 +15,8 @@ const fizzbuzz = (n) => {
             }
         }
         console.log(arr)
+    } else {
+        console.log([n.toString()])
     }
 }
 
