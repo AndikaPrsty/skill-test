@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useAuth0 } from '@auth0/auth0-react';
 import './profile.css'
 
@@ -6,6 +6,10 @@ import './profile.css'
 const Profile = () => {
 
     const { user, logout } = useAuth0()
+
+    useEffect(() => {
+        console.log(user)
+    }, [user])
 
     return (
         <div className="profile">
@@ -16,6 +20,11 @@ const Profile = () => {
                     <td>Nama</td>
                     <td>:</td>
                     <td>{user.name}</td>
+                </tr>
+                <tr>
+                    <td>Nickname</td>
+                    <td>:</td>
+                    <td>{user.nickname}</td>
                 </tr>
                 <tr>
                     <td>Email</td>

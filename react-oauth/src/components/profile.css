@@ -1,4 +1,9 @@
 .profile {
     display: flex;
     flex-direction: column;
+    margin: 20px;
+}
+
+.profile table td {
+    text-align: start;
 }
