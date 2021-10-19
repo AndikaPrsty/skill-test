@@ -2,6 +2,12 @@
 
 Projek skill test untuk syarat mengikuti program intensive probation
 
+# teknologi yang digunakan :
+<ul>
+  <li>React Js</li>
+  <li>Auth0</li>
+</ul>
+
 In the project directory, you can run:
 
 ### `yarn start`
