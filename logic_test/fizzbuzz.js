@@ -13,7 +13,7 @@ const fizzbuzz = (n) => {
             } else {
                 arr.push(num.toString())
             }
-        }
+        } ``
         console.log(arr)
     } else {
         console.log([n.toString()])
