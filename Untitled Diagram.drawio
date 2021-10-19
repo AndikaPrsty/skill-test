@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T06:01:46.513Z" agent="5.0 (Windows)" etag="mL3LPHwmEb6rzY_Iaxzx" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T06:02:58.528Z" agent="5.0 (Windows)" etag="haQte7tK-f9HDdivM4sf" version="14.9.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2121" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -59,6 +59,9 @@
         <mxCell id="CYi59UbCX07F4n_8gZ2N-22" value="tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="480" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CYi59UbCX07F4n_8gZ2N-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYi59UbCX07F4n_8gZ2N-23" target="CYi59UbCX07F4n_8gZ2N-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CYi59UbCX07F4n_8gZ2N-23" value="tampilkan data user" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="155" y="610" width="210" height="60" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         <mxCell id="CYi59UbCX07F4n_8gZ2N-34" value="email/password salah" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="670" y="110" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CYi59UbCX07F4n_8gZ2N-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYi59UbCX07F4n_8gZ2N-37" target="CYi59UbCX07F4n_8gZ2N-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CYi59UbCX07F4n_8gZ2N-37" value="tampilkan data user" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="670" y="390" width="100" height="60" as="geometry" />
         </mxCell>
@@ -94,6 +100,12 @@
         </mxCell>
         <mxCell id="CYi59UbCX07F4n_8gZ2N-40" value="ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CYi59UbCX07F4n_8gZ2N-42" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYi59UbCX07F4n_8gZ2N-44" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
